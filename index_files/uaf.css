@@ -1,0 +1,13 @@
+				@font-face {
+					font-family: 'candara';
+					src: url('/wp-content/uploads/useanyfont/200107042605Candara.woff2') format('woff2'),
+						url('/wp-content/uploads/useanyfont/200107042605Candara.woff') format('woff');
+					font-display: auto;
+				}
+
+				.candara{font-family: 'candara' !important;}
+
+						body, h1, h2, h3, h4, h5, h6, p, blockquote, li, a, #menu-menu li a, #menu-menu li span, #menu-primary-menu li a, #menu-primary-menu li span, #menu-social li a, #menu-social li span, #menu-top-navigation li a, #menu-top-navigation li span, #menu-%d0%be%d1%81%d0%bd%d0%be%d0%b2%d0%bd%d0%be%d0%b5-%d0%bc%d0%b5%d0%bd%d1%8e li a, #menu-%d0%be%d1%81%d0%bd%d0%be%d0%b2%d0%bd%d0%be%d0%b5-%d0%bc%d0%b5%d0%bd%d1%8e li span, #menu-%d1%84%d0%be%d0%bd%d0%b4 li a, #menu-%d1%84%d0%be%d0%bd%d0%b4 li span{
+					font-family: 'candara' !important;
+				}
+		
